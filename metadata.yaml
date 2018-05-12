@@ -1,0 +1,28 @@
+_repo: Visits-To-Monasteries-in-the-Levant_32397
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32397-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Curzon, Robert
+    alias: Zouche, Robert Curzon, baron
+    birthdate: 1810
+    deathdate: 1873
+    gutenberg_agent_id: '35824'
+    url: http://www.gutenberg.org/2009/agents/35824
+description: ''
+gutenberg_issued: '2010-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Monasteries -- Middle East'
+- !lcsh 'Middle East -- Description and travel'
+title: Visits To Monasteries in the Levant
+url: http://www.gutenberg.org/ebooks/32397
