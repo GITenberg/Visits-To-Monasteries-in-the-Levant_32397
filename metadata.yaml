@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35824'
     url: http://www.gutenberg.org/2009/agents/35824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32397#Visits-To-Monasteries-in-the-Levant
 gutenberg_issued: '2010-05-16'
 gutenberg_type: Text
 identifiers:
